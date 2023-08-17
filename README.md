@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **chatgpt, llamaindex, langchain, dialogflow and fullstack**
 
-- 📫 How to reach me [https://t.me/terminatedcode](https://t.me/icanany)
+- 📫 How to reach me [https://t.me/icanany](https://t.me/icanany)
 
 - ⚡ Fun fact **I think I am a "codeworm".**
 
